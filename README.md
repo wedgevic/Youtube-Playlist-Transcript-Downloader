@@ -30,6 +30,3 @@ A simple python script to help you download the transcripts of all videos in a Y
 - `--languages`: Comma-separated list of language codes (e.g. `'en, de'`)
 - `--output_dir`: Directory to save the transcripts (defaults to the playlist name)
 - `--multi`: Number of threads to use for parallel downloads (default is 5)
-
-## License
-TBD
